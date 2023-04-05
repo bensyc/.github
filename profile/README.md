@@ -1,5 +1,5 @@
 # Bored ENS Yacht Club 🦍
-#### Links: [XYZ](https://bensyc.xyz) | [ETH](https://bensyc.eth.limo)
+#### Links: [XYZ](https://bensyc.xyz) | [ETH-1](https://boredensyachtclub.eth.limo) | [ETH-2](https://bensyc.eth.limo)
 
 Bored ENS Yacht Club (BENSYC) is the first ENS 10k subdomain collection where the subdomain NFT is your membership to the club.
 
